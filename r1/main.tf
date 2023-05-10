@@ -1,2 +1,2 @@
-resource "null_resource" "example12345" {
+resource "null_resource" "terefere" {
 }
