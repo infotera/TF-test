@@ -1,2 +1,2 @@
-resource "null_resource" "terefere" {
+resource "null_resource" "terefddere" {
 }
